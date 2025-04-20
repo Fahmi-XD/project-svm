@@ -16,7 +16,7 @@
 				name="username"
 				class="border-white/20 outline-none rounded-2xl border py-3 px-5 w-full"
 				id="username"
-				placeholder="jhondoe@example.com"
+				placeholder="Agus slamet"
 				required
 			/>
 		</div>
